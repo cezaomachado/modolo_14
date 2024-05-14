@@ -1,0 +1,63 @@
+body{
+    background-color: #e6f7bf;
+}
+.navbar {
+    background-color: #6f8834;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #e0fd91;
+    color: #6f8834;
+    font-family: Chakra Petch, sans-serif;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-catalogo .nav-link.active:hover{
+    color: #fff;
+}
+
+.navbar-brand{
+    font-family: Reddit Sans;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+}
+
+.carousel-inner img{
+    width: 100vw;
+}
+
+.section-title{
+    font-family: Chakra Petch, sans-serif;
+}
+
+span, .text-decoration {
+    color: #6f8834;
+}
+
+#eventos,
+#fale-conosco{
+    background-color: #e4f86f;
+}
+
+.nav-catalogo .nav-link.active,
+#fale-conosco button{
+    background-color: #6f8834;
+    color: #fff;
+}
+
+.nav-catalogo .nav-link:hover{
+    color: #6f8834;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
